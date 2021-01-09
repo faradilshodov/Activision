@@ -3,4 +3,4 @@
 
 How to run only one test? - ./node_modules/.bin/wdio wdio.conf.js --spec specs/(your path to file goes here)
 
-How to run all tests? - npm test
+How to run all tests? - ./node_modules/.bin/wdio wdio.conf.js
